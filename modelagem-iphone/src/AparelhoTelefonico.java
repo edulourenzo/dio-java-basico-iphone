@@ -1,4 +1,4 @@
 
-public class AparelhoTelefonico {
+public class AparelhoTelefonico extends IPhone {
 
 }

@@ -1,4 +1,4 @@
 
-public class ReprodutorMusical {
+public class ReprodutorMusical extends IPhone {
 
 }

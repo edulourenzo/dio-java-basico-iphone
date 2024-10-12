@@ -1,4 +1,4 @@
 
-public class NavegadorInternet {
+public class NavegadorInternet extends IPhone {
 
 }
